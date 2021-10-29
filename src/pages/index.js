@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 export default function Home (props) {
   return (
     <>
-      <h1>Rendering Modes Starter</h1>
+      <h1>Rendering Modes Starter!</h1>
       <ul>
         <li>
           <Link to='/dsg'>DSG page</Link>
